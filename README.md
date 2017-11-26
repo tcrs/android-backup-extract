@@ -23,5 +23,5 @@ To extract all files from a backup
 
 # Further info
 
-(Details of backup file structure)[https://android.stackexchange.com/questions/23357/is-there-a-way-to-look-inside-and-modify-an-adb-backup-created-file]
-(Further Details)[https://nelenkov.blogspot.co.uk/2012/06/unpacking-android-backups.html] - could be used as a reference to implement backup decryption
+[Details of backup file structure](https://android.stackexchange.com/questions/23357/is-there-a-way-to-look-inside-and-modify-an-adb-backup-created-file)
+[Further Details](https://nelenkov.blogspot.co.uk/2012/06/unpacking-android-backups.html) - could be used as a reference to implement backup decryption
